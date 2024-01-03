@@ -1,0 +1,18 @@
+.home {
+	width: 300px;
+	margin: 0 auto;
+}
+
+.reset {
+			width: 10rem;
+			height: 2rem;
+			background-color: red;
+}
+#link {
+		text-decoration: none;
+		color: white;
+		font-size: 18px;
+}
+.linkColor {
+		 	color: blue;
+}
