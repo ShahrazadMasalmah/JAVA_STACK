@@ -1,0 +1,77 @@
+.ninja-gold {
+    width: 1200px;
+    height: 600px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+  }
+.gold {
+  width: 250px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 30px;
+} 
+#gold_total {
+  width: 70px;
+  height: 30px;
+  border: 2px solid black;
+  margin-right: 15%;
+} 
+.section {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+.building {
+    width: 200px;
+    height: 150px;
+    border: 2px solid black;
+    text-align: center;
+    background-color: aquamarine;
+    padding-top: 2%;
+  }
+.submit {
+    width: 100px;
+    height: 30px;
+    background-color: #ffeb3b;
+    border: 1px solid #e9e7d6;
+    box-shadow: 3px 3px 2px #000000;
+}
+.activity {
+    display: flex;
+    flex-direction: column;
+}
+.greentext {
+    color: green;
+}
+.redtext {
+  color: red;
+}
+.scroll {
+  height: 120px;
+  overflow-y: scroll;
+  padding-left: 10px;
+  background-color: #f3efe8;
+  padding-top: 1%;
+  /* the auto value is similar to scroll, but it adds scrollbars only when necessary */
+}
+.reset {
+    width: 100px;
+    height: 30px;
+    background-color: #ec1a1a;
+    border: 1px solid #e9e7d6;
+    box-shadow: 3px 3px 2px #000000; 
+    margin-top: 20px;
+}
+
+.go {
+    width: 100px;
+    height: 40px;
+    background-color: #804000;
+    color: white;
+    border: 1px solid #e9e7d6;
+    box-shadow: 3px 3px 2px #000000; 
+    margin-top: 20px;
+}
